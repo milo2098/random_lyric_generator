@@ -5,4 +5,4 @@ Random Lyric Generator
 
 ### Planned Additons
 + HTML and CSS integration to make the code more accessible
-+ Ability for user to add their own words
++ Function to let user add their own words
